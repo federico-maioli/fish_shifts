@@ -47,3 +47,12 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Mac specific
+*.DS_Store
+
+#.nc files are too heavy
+*.nc
+
+# environmental variables
+/data/environmental/
